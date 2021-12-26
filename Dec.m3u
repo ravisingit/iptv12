@@ -1,0 +1,859 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Animal",Animals Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Animal",Forests Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Animal",Rivers & Streams Live | HD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Animal",Cheetah Cub Cam | 1
+https://nzp-ms05.si.edu/live_edge_cheetah_01/cheetah_y01_01_1080_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDQxNDVf/SmithsonianZoo_876x876.png" group-title="Animal",Cheetah Cub Cam | 2
+https://nzp-ms06.si.edu/live_edge_cheetah_02/cheetah_y01_02_1080_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Animal",Niagara Falls WebCam
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+
+#EXTINF:-1 tvg-id="LNWild Earth" tvg-name="Wild Earth" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Animal", LocalNow | Wild Earth
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Animal", STIRR | MagellanTV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-logo="https://od.lk/s/MF8yNDUyNTE0MTFf/LoveNatureSS.png" group-title="Animal", Roku | Love Nature HD
+https://amg00090-bamusa-lovenature-rokuus-jns5s.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animal", Magellan TV  (Documentary)
+https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Animal", MagellanTV NOW
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=itvezuxN1UfY5esSUYJw&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 group-title="Animal", Wonder
+https://lds-wonder-plex.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wonder-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=itvezuxN1UfY5esSUYJw&channelId=5f74cf83ffbe690040689f4d
+
+#EXTINF:-1 group-title="Animal", Pluto TV Science
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Animal", Wonder (1080p)
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animal", InWonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
+
+#EXTINF:-1 group-title="Animal", Pluto TV Animals+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=
+
+#EXTINF:-1 group-title="Animal", Pluto TV Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Animal", Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Animal", Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Animal", SONY BBC EARTH HINDI HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:-1 group-title="Animal", Love Nature 4k
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Animal", WildEarth
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=itvezuxN1UfY5esSUYJw&channelId=60d4edddb2fdec002c141135
+
+#EXTINF:-1 group-title="Animal", NAT Geo Wild RU
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+
+#EXTINF:-1 group-title="Animal", NAT GEO DUBAI
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 group-title="Animal", National Geographic Wild Russia
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:-1 group-title="News", Reuters Now (1080p)
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="News", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live | HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="News",NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU3MjcyNzlf/France24.png" group-title="News",France24 | ENG Web HD
+http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="News", CNN International HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU3MjcyNzlf/France24.png" group-title="News",France24 | ENGLISH
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ5NTc4NDNf/Euronews_400x400.png" group-title="News",Euronews | Webstream
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+#EXTINF:-1 group-title="News", Redbox USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="News",CBS News | CBSN National
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="News",NBC News NOW | Roku
+https://nbcnewsxumo.akamaized.net/hls/live/2026070/nnn_live2/master.m3u8?RokuStream
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NDAxOTJf/NHKWJ_600x600.png" group-title="News", NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NDAxOTFf/RTLive_256x256.png" group-title="News", Russia Today Live
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NDAxOTBf/RTAmerica_400x400.png" group-title="News", RT America | HD
+https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU0NDAxODlf/RTUK_400x400.png" group-title="News", Russia Today UK
+https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDcyNTY5Mjhf/RTDoc_300x300.png" group-title="News", RT Documentary Channel
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="News",CBS News | ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1 group-title="News", ET Live (Pluto TV) (1080p)  (Entertainment)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ5ODEwNzlf/Newsy_359x359.png" group-title="News",Newsy | Webstream
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News",CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 group-title="News", BBC World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="News", Euro news
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="News", France 24 (FR) (Opt-1)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",Sky News (UK)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-id="USBA370000104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="Samsung TV Plus",US | CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+
+#EXTINF:-1 group-title="News", Reuters
+https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News", ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/hc5a1YP.png"  group-title="News", FOX News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="News", Arirang (KR) (Opt-2)
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="News", NHK World (JP)
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1 group-title="News", Sky News AUSTRALIA
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 group-title="News", ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 group-title="News", ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18 
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="News", ಟಿವಿ೯ ಕನ್ನಡ TV9 
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
+
+#EXTINF:-1 group-title="News", ಸುವರ್ಣ ಸುದ್ದಿ24×7 
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+
+#EXTINF:-1 group-title="News", ಟಿವಿ 5 
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in_480p/index.m3u8
+
+#EXTINF:-1 group-title="News", ಪ್ರಜಾ ಟಿ.ವಿ. 
+http://203.201.62.163:1935/ka-prajaa/prajaa-news/chunklist_w939656890.m3u8
+
+#EXTINF:-1 group-title="News", ಬಿಟಿವಿ ನ್ಯೂಸ್
+https://vidcdn.vidgyor.com/btv-origin/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="News", DD ಚಂದನ 
+https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in_480p/index.m3u8
+
+#EXTINF:-1 group-title="News", India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+
+#EXTINF:-1 group-title="News", WION
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
+
+#EXTINF:-1 group-title="News", Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="News", Republic TV News
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+
+#EXTINF:-1 group-title="News", NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 group-title="News", Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1sM8ny.png" group-title="Travel", Smithsonian Channel Asia (Science)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", Go Traveler  (Travel)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", PBS World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", Pluto TV History
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Travel", HISTORY
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Travel", XPLORE 
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", Redbox : Wired
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Travel", Redbox : Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Travel", Redbox : Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Travel", Redbox : Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Travel", Redbox : GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Travel", AXS TV Now (1080p)
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Travel", WIRED
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungcanwired/CDN/playlist.m3u8?p%3Dsamsung%26device_id%3D%7BPSID%7D%26is_lat%3D%7BTARGETOPT%7D%26us_privacy%3D%7BUS_PRIVACY%7D%26coppa%3D0%26app_name%3D%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="Travel", Travel XP
+https://2je0.short.gy/TRAVELXP/hubtvapp.m3u8
+
+#EXTINF:-1 group-title="Travel", Pluto TV Travel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc2c444bac1f70009ca756e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Travel", Travel Channel
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
+
+#EXTINF:-1 group-title="Cricket", Bein Sports 3 
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Cricket", Bein Sports 4
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Cricket", Bein Sports 5
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Cricket", Bein Sports 6
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Cricket", Bein Sports 7
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Cricket", BT SPORTS 1
+https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Cricket", Sky Sports Main Event
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", Willow HD
+http://208.86.19.21:80/731.stream/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", T Sports
+http://208.86.19.21:80/905.stream/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", PTV sports
+http://208.86.19.21:80/610.stream/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", JIOCricket HD
+https://localiptv.tk/Local_IPTV_PLAYLIST/paytm_t20_Trophy/IND_VS_NZ/JIO_CRICKET_HD.m3u8
+
+#EXTINF:-1 group-title="Cricket", A Sports HD
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", Star Sports 1 HD Hindi
+http://208.86.19.21/724.stream/index.m3u8
+
+#EXTINF:-1 group-title="Cricket", Sony Ten 4 Tamil
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF:-1 group-title="Cricket", SONY SIX HD
+https://bit.ly/3h6sIXHd
+
+#EXTINF:-1 group-title="Cricket", SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+
+#EXTINF:-1 group-title="Cricket", SONY TEN1 (1)
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:-1 group-title="Cricket", SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+
+#EXTINF:-1 group-title="Cricket", SONY TEN 3 HD HINDI
+https://bit.ly/2OwtEn3hd
+
+#EXTINF:-1 tvg-id="GBAJ400038BK" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/GBAJ400038BK_20200923T100440.png" group-title="Cooking", UK | Tastemade
+https://tastemade-gb.samsung.wurl.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA3800002KI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/USBA3800002KI_20210525T051727.png" group-title="Cooking", US | America's Test Kitchen
+https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplusamericastestkitchen/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBBA330001986" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/GBBA330001986_20201118T003252.png" group-title="Cooking", UK | Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.com/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Cooking Panda  (Cooking)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 group-title="Cooking", Tastemade (1080p)  (Cooking)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Tastemade International (Australia)  (Cooking)
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Tastemade Travel  (Cooking)
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", So Yummy!  (Cooking)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Food TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Cooking", FilmRise Cooking  (Cooking)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Redbox : Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Cooking", Redbox : Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Cooking", Redbox : The Design Network
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Redbox : Hungry
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Redbox : Architectural Digest
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Redbox : So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Cooking", Pluto TV Food TV 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
+
+#EXTINF:-1 group-title="Cooking", GUSTO TV (UK)
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", GUSTO TV (AU)
+https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Spark Tv
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Big Life TV
+http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Pluto TV Food (4)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd819a759ee03633e7490c8/master.m3u8?deviceType%3Dsamsung-tvplus%26deviceMake%3Dsamsung%26deviceModel%3Dsamsung%26deviceVersion%3Dunknown%26appVersion%3Dunknown%26deviceLat%3D0%26deviceLon%3D0%26deviceDNT%3D%7BTARGETOPT%7D%26deviceId%3D%7BPSID%7D%26advertisingId%3D%7BPSID%7D%26us_privacy%3D%7BUS_PRIVACY%7D%26samsung_app_domain%3D%7BAPP_DOMAIN%7D%26samsung_app_name%3D%7BAPP_NAME%7D%26profileLimit%3D%26profileFloor%3D%26embedPartner%3Dsamsung-tvplus
+
+#EXTINF:-1 group-title="Cooking", Food Network
+http://152.228.154.144/stream/Q56PTMMRN1/298.m3u8
+
+#EXTINF:-1 group-title="Cooking", Food Food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+
+#EXTINF:-1 group-title="Cooking", Food 52
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Go USA (India)
+https://brandusa-gousa-1-in.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Cooking", Tastemade AUS
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cooking", Tastemade (India)
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index.m3u8
+
+#EXTINF:-1 group-title="Cooking", Bon Appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Thrill
+http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="Movie", AMC Thrillers : IMDb TV
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
+
+#EXTINF:-1 group-title="Movie", AMC Thrillers : Vizio
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
+
+#EXTINF:-1 group-title="Movie", Crackle : HD
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Rakuten Top Free 1
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Rakuten Top Free 2
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Rakuten Top Free 3
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Rakuten Top Free 6
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Rakuten Top Free 7
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MovieMix" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="Movie", MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Redbox 3 Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie", Redbox 1: Spotlight (1080p)
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie", FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+
+#EXTINF:-1 group-title="Movie", FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+
+#EXTINF:-1 group-title="Movie", Redbox : Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", Redbox : Redbox 1
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", Redbox : Redbox 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", Redbox : Redbox 3
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="Movie", GB : MovieSphere
+https://moviesphere-uk-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-moviesphere-uk-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=-nmbsyBG4ozLu23jq3jw&channelId=606cbf167e9765002c2a6131
+
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" group-title="Movie", MovieSphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", Electric Now 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", Electric Now Another
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+
+#EXTINF:-1 group-title="Movie", Hallmark Movies & More 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-name="The Asylum" tvg-id="The Asylum" group-title="Movie" tvg-logo="https://i.imgur.com/1pxXEtP.png", The Asylum
+http://asylum-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Movie", The Asylum : Channel 1 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8?p=roku
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Movie", The Asylum : Channel 3
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvpluscantheasylum/CDN/playlist.m3u8?p%3Dsamsung%26device_id%3D%7BPSID%7D%26is_lat%3D%7BTARGETOPT%7D%26us_privacy%3D%7BUS_PRIVACY%7D%26coppa%3D0%26app_name%3D%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pxXEtP.png" group-title="Movie", The Asylum : Channel 4
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Gravitas Movies
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Redbox: Gravitas Movies 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", STIRR : CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:-1 group-title="Movie", RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", FilmRise Ch1
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", FilmRise Ch2
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", FilmRise Ch3
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-can-filmrisefreemovies/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=%7BUS_PRIVACY%7D&coppa=0&app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="Movie", FilmRise Ch4 Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 group-title="Movie", FilmRise Ch5
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch6
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch7
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch8
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch9
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch10
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch11
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch12
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch13
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch14
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch15
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch16
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Movie", Redbox | FilmRise Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ2OTBf/FilmRise_Mysteries_500x500.png" group-title="Movie", Roku | FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2ODJf/FilmRise_Free-Movies_300x300.png" group-title="Movie", Roku | FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" group-title="Movie", Roku | FilmRise Action
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzc5Mjk1NTRf/AMCThrillers_660x660.png" group-title="Movie", AMC Thrillers | Vizio
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="Movie", TWD Universe | Vizio
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQwMDkwMjRf/Dust_670x670.png" group-title="Movie", F2V | DUST
+https://dust-samsung-us.samsung.wurl.tv/playlist.m3u8?l1br3date0801&SrcSsg&EPGssg&Catf2v
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", F2V | Electric Now
+https://ov-elec-en.ottera.tv/elec/en/en.m3u8?l1br3date0830&SrcXumo&EPGStr&Catf2v
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="Movie", Tribecca Film Channel | Roku
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokutribecafilm/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" group-title="Movie", US | The Film Detective
+https://filmdetective-plex.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" group-title="Movie", US | FilmStream
+https://spi-filmstream-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" group-title="Movie", US | Gravitas Movies
+https://gravitas-movies-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+
+#EXTINF:-1 tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:-1 tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Movie Mix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1 tvg-id="stirr-movies-wurl-external-10-06-2018" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1 tvg-id="stirr-horror-movies-09-27-2019" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+
+#EXTINF:-1 tvg-id="stirr-westerns" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+
+#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Charge! 
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Electric Now
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+
+#EXTINF:-1 tvg-id="5ff8c708653d080007361b14" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Movie", US | Paramount+ Picks Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="60f5d389985a0c0007357304" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Movie", US | BritBox Mysteries Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="USAJ3000011S4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USAJ3000011S4_20210525T051716.png" group-title="Movie", US | Midnight Pulp
+https://dmr-midnightpulp-3-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBA300017PK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USBA300017PK_20210609T003448.png" group-title="Movie", US | Pluto TV Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="USAJ17000014C" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/66/USAJ17000014C_20210525T051732.png" group-title="Movie", US | The Asylum
+https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvplustheasylum/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CAAJ1700002PA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/CAAJ1700002PA_20200819T020408.png" group-title="Movie", CA | The Asylum
+https://dai2.xumo.com/xumocdn/p=samsung/amagi_hls_data_xumo1212A-samsungtvpluscantheasylum/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAJ3504713A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/USAJ3504713A_20210525T051718.png" group-title="Movie", US | DUST
+https://dust-samsung-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CAAJ2700024HE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/CAAJ2700024HE_20210525T053341.png" group-title="Movie", CA | DUST
+https://dust-samsung-uk-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Xumo Free Movies  (Movies)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Xumo Free Westerns  (Movies)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", PopCornFlix Action (Bumblebee)  (Movies)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Crackle (XUMO) (1080p)  (Movies)
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", CONtv (1080p)  (Entertainment)
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
+#EXTINF:-1 tvg-id="FrightFlix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movie", FrightFlix (720p)
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+
+#EXTINF:-1 group-title="Movie", Showtime Selects
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", TV Land Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Cult Films
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Westerns
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="PlutoMovies", Stories by AMC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="PlutoMovies", Pluto : Slightly Off By IFC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="PlutoMovies", US : Paramount Movie Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="PlutoMovies", Pluto : All Reality by WE tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV 007
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Spotlight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Action
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Comedy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Crime Movies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Thrillers
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Movie", Pluto TV Sci-Fi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Movie", Reelz Channel XUMO
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie", Cinevault Westerns : HD
+https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3
+
+#EXTINF:-1 group-title="Movie", STIRR : Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1 group-title="Movie", STIRR Horror Movies
+https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
+
+#EXTINF:-1 group-title="Movie", STIRR : STIRR Comedy 
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+
+#EXTINF:-1 group-title="Movie", STIRR : STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+
+#EXTINF:-1 group-title="Cinema", SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+
+#EXTINF:-1 group-title="Cinema", Sony MAX 2 
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+
+#EXTINF:-1 group-title="Cinema", SONY PIX FHD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 group-title="Cinema", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 group-title="Cinema", Sony Wah
+https://bit.ly/3j7sOnywAh
+
+#EXTINF:-1 group-title="Cinema", Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", WOW Cinema One
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+
+#EXTINF:-1 group-title="Cinema", Zee cinema
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cinema", &Tv
+http://208.86.19.21:80/703.stream/index.m3u8
+
+#EXTINF:-1 group-title="Cinema", SONY HD
+https://bit.ly/3fKTNU8seTHd
+
+#EXTINF:-1 group-title="Cinema", SONY PAL
+https://bit.ly/30a3wsONyPal
+
+#EXTINF:-1 group-title="Cinema", SONY SAB HD
+https://bit.ly/3fBsABhd
+
+#EXTINF:-1 group-title="Music", Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="Music", m2o TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Music", radio m2o (Radio) [IPTV]
+https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music", CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", CMC : CMC Radio
+https://streamingv2.shoutcast.com/CMC
+
+#EXTINF:-1 group-title="Music", THT MUSIC
+http://152.228.154.144/stream/Q56PTMMRN1/317.m3u8
+
+#EXTINF:-1 group-title="Music", SHOWBOX MUSIC
+https://epiconvh.s.llnwi.net:443/showbox/master.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray iConcerts HD
+http://152.228.154.144/stream/Q56PTMMRN1/267.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Naturescape (Australia) (1080p)  (Music)
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", Stingray Soul Storm (1080p)  (Music)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", 404 Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1 group-title="Music", 405 Stingray Hit List
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1 group-title="Music", 406 Stingray Classic Rock
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1 group-title="Music", 407 Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 group-title="Music", 408 Stingray Pop Adult
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1 group-title="Music", 409 Stingray Urban Beat
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1 group-title="Music", 411 Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1 group-title="Music", 412 Stingray Everything 80s
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1 group-title="Music", BONUS Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/master.m3u8
