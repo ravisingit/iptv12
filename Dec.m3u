@@ -6,32 +6,8 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="LNWild Earth" tvg-name="Wild Earth" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Animal", LocalNow | Wild Earth
 https://wildearth-localnow.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Animal", SONY BBC EARTH HINDI HD
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-
 #EXTINF:-1 tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Animal", STIRR | MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-
-#EXTINF:-1 group-title="Animal", NAT Geo Wild RU
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-
-#EXTINF:-1 group-title="Animal", NAT GEO DUBAI
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 group-title="Animal", National Geographic Wild Russia
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-
-#EXTINF:-1 group-title="Animal", Pluto TV Animals+
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=
-
-#EXTINF:-1 group-title="Animal", Pluto TV Nature
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="Animal", Pluto TV Natureza
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="Animal", Pluto TV Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="Animal", Magellan TV  (Documentary)
 https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -51,11 +27,35 @@ https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Animal", InWonder
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
 
-#EXTINF:-1 group-title="Animal", WildEarth
-https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=itvezuxN1UfY5esSUYJw&channelId=60d4edddb2fdec002c141135
+#EXTINF:-1 group-title="Animal", Pluto TV Animals+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=
+
+#EXTINF:-1 group-title="Animal", Pluto TV Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db050444f3c52000984c72a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Animal", Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 group-title="Animal", Pluto TV Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Animal", SONY BBC EARTH HINDI HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-logo="https://od.lk/s/MF8yNDUyNTE0MTFf/LoveNatureSS.png" group-title="Animal", Roku | Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animal", WildEarth
+https://wildearth-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-wildearth-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=itvezuxN1UfY5esSUYJw&channelId=60d4edddb2fdec002c141135
+
+#EXTINF:-1 group-title="Animal", NAT Geo Wild RU
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+
+#EXTINF:-1 group-title="Animal", NAT GEO DUBAI
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 group-title="Animal", National Geographic Wild Russia
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY5NDMyMDZf/BumblebeeTV_Generic.png" group-title="Animal",Animals Live | HD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -81,7 +81,7 @@ https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="News", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live | HD
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News", ABC News | HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMwMjQ4OThf/NBCNewsNow.png" group-title="News",NBC News Now | HD
@@ -147,7 +147,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="News",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-#EXTINF:-1 tvg-id="USBA370000104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="Samsung TV Plus",US | CBS News
+#EXTINF:-1 tvg-id="USBA370000104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="SNews",US | CBS News
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
 
 #EXTINF:-1 group-title="News", Reuters
@@ -155,9 +155,6 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News", ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/hc5a1YP.png"  group-title="News", FOX News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -285,20 +282,14 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Cricket", BT SPORTS 1
 https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Cricket", BT SPORTS 1 (1)
-https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_1_720p/chunklist.m3u8
- (1)
-EXTINF:-1 group-title="Cricket", Sky Sports Main Event
-ttp://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 group-title="Cricket", Sky Sports Main Event
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 
 #EXTINF:-1 group-title="Cricket", Willow HD
 http://208.86.19.21:80/731.stream/index.m3u8
 
 #EXTINF:-1 group-title="Cricket", T Sports
 http://208.86.19.21:80/905.stream/index.m3u8
-
-#EXTINF:-1 group-title="Cricket", T Sports (1)
-http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 
 #EXTINF:-1 group-title="Cricket", PTV sports
 http://208.86.19.21:80/610.stream/index.m3u8
@@ -426,7 +417,7 @@ http://45.126.83.51/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="Movie", AMC Thrillers : IMDb TV
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
 
-#EXTINF:-1 group-title="Movie", AMC Thrillers : Vizio
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzc5Mjk1NTRf/AMCThrillers_660x660.png" group-title="Movie", AMC Thrillers | Vizio
 https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
 
 #EXTINF:-1 group-title="Movie", Crackle : HD
@@ -492,7 +483,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungu
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", Electric Now 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", Electric Now Another
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="Movie", STIRR | Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 
 #EXTINF:-1 group-title="Movie", Hallmark Movies & More 
@@ -516,7 +507,7 @@ https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Movie", Redbox: Gravitas Movies 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1 group-title="Movie", STIRR : CineLife
+#EXTINF:-1 tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 #EXTINF:-1 group-title="Movie", RunTime Free Movies
@@ -534,7 +525,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-can-filmrisefreemov
 #EXTINF:-1 group-title="Movie", FilmRise Ch4 Sci-Fi
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1 group-title="Movie", FilmRise Ch5
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Movie", Redbox | FilmRise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch6
@@ -570,9 +561,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="Movie", FilmRise Ch16
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Movie", Redbox | FilmRise Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjQ2OTBf/FilmRise_Mysteries_500x500.png" group-title="Movie", Roku | FilmRise Mysteries
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
 
@@ -581,9 +569,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMjM0NDRf/FilmRise_Action_500x500.png" group-title="Movie", Roku | FilmRise Action
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzc5Mjk1NTRf/AMCThrillers_660x660.png" group-title="Movie", AMC Thrillers | Vizio
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8?l1br3date0702andAMCBingeAndPlexEPG
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxMTIwMzFf/TWDUniverse_800x800.png" group-title="Movie", TWD Universe | Vizio
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
@@ -608,9 +593,6 @@ https://gravitas-movies-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-
-#EXTINF:-1 tvg-id="externallinearfeed-01-27-2020-01-27-2020" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | CineLife
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 #EXTINF:-1 tvg-id="movie-mix-wurl-external-12-03-2018" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="Movie", STIRR | Movie Mix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
@@ -732,17 +714,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 #EXTINF:-1 group-title="Movie", Cinevault Westerns : HD
 https://gsn-cinevault-westerns-1-us.vizio.wurl.tv/playlist.m3u8?l1br3
 
-#EXTINF:-1 group-title="Movie", STIRR : Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-
-#EXTINF:-1 group-title="Movie", STIRR Horror Movies
-https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-
 #EXTINF:-1 group-title="Movie", STIRR : STIRR Comedy 
 https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-
-#EXTINF:-1 group-title="Movie", STIRR : STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 
 #EXTINF:-1 group-title="Cinema", SONY MAX HD
 https://bit.ly/32bsOnymAXhd
@@ -816,22 +789,22 @@ https://epiconvh.s.llnwi.net:443/showbox/master.m3u8
 #EXTINF:-1 group-title="Music", Stingray iConcerts HD
 http://152.228.154.144/stream/Q56PTMMRN1/267.m3u8
 
-#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music)
+#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music) redbox
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music)
+#EXTINF:-1 group-title="Music", Stingray Classic Rock (1080p)  (Music) xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
 
 #EXTINF:-1 group-title="Music", Stingray Naturescape (Australia) (1080p)  (Music)
 https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 
-#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music) vizio
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music) xumo
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
 
-#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music)
+#EXTINF:-1 group-title="Music", Stingray Qello Concerts (1080p)  (Music) redbox
 https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Music", Stingray Soul Storm (1080p)  (Music)
